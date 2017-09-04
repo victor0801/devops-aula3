@@ -1,0 +1,28 @@
+.bordas {
+  border-top-width: 2px;
+  border-top-color: black;
+  border-top-style: solid;
+
+
+  border-right-width: px;
+  border-right-color: black;
+  border-right-style: solid;
+  
+  border-bottom-width: 2px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  
+  border-left-width: px;
+  border-left-color: black;
+  border-left-style: solid;
+
+}
+
+p.centro{
+	text-align: center;
+	color: red;
+	font-family: verdana;
+	font-size: 12px;
+	line-height: 50px;
+	
+}
