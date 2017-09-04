@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet"
+		type="text/css" href="index.css"
+<	/head>
+
+	<body>
+		<div
+		class="bordas">
+		<p class="centro">Faculdade Impacta de Tecnologia</br>
+		Curso: Sistemas da Informação</br>
+		Disciplina: Tecnologias Web</br></p>
+		</div>
+
+
+	</body>
+</html>
